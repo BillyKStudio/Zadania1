@@ -1,4 +1,4 @@
-SCENARIO 2 : Order a burger in KFC dostawa (https://kfc.pl/main/home/news  from chrome on PC)
+SCENARIO 2 : Order a burger in KFC dostawa (https://kfc.pl/main/home/news from chrome on PC)
 	
 1) On webpage click on the button Begin Order
 2) Choose or type in the assisted textfield City, Street, House number, appartement.
