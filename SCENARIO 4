@@ -1,6 +1,6 @@
 SCENARIO 4 : Create an account in LinkedIN (https://www.linkedin.com/start/join from chrome on PC)
 
-1) Fill the textefields Forename, Name, email, password. And the click on the button Accept and register
+1) Fill the textefields Forename, Name, email, password. And the click on the button Accept and register.
 2) A Pop-up with a checkbox will show to check if you ar a robot. Check the checkbox I am not a robot. 
 
 3) That will lead you to the Country page, select you country in the Country listbox and fill the Postal Code. Validate with the Next button.

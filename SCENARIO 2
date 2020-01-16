@@ -7,7 +7,7 @@ SCENARIO 2 : Order a burger in KFC dostawa (https://kfc.pl/main/home/news from c
 4) Select the food you want to order by adding them with the Add button. You can navigate throught the differents menu (Buckets, Boxes,burgers,shake...)
 5) A popup will pop to propose for additionnal add-ons, you can add the add-ons by validate with the check box on the list. The Add to order button will activate.
 6) or you can skip them by clicking on the cancel link or the cross close button. 
-7) Once you are done, a sum-up bill will appears on the right side of the webpage. To complete your order, you can click on the button Order
+7) Once you are done, a sum-up bill will appears on the right side of the webpage. To complete your order, you can click on the button Order.
 
 8) That will lead you to the summary page which contain the DELIVERY DATA, YOUR ORDER, PAYMENT, WHO WILL PICK UP THE DELIVERY? Sections. Fill or correct the infornations in textfields. PAYMENT is a choice checkbox with 3 options (PayU,Card Payment on Delivery, Cash Payment on Delivery)
 9) You have 2 checkbox in the end of the page: I Would like to order faster and cheaper! and I have read and accepted Terms and Conditions and Privacy Policy. The second one is mandatory to proceed your order.
