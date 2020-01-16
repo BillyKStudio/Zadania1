@@ -1,0 +1,13 @@
+SCENARIO 5 : Create an account on Twitter Lite(Android)
+
+1) Click on the button Register
+2) Fill the textfield Forename Name, Phone number. Click on the button Next to validate
+3) Validate or not the 2 checkbox Enter in contact with knowned persons and customized comercial.  Click on the 	button Next to 	validate.
+3) Summary page, with 2 textField. Click on the Register button to continue
+4) A pop-up will show to ask for the security code you have received by sms. Fill the textfield and click on the button continue.
+5) Password page, with a textField box. Set the password box and 	validate with the next button.
+6) Image profil page, click on the icon button to select a picture on you local file. Validate with the next button.
+7) Biographie profil page, a textfield propose you to write about yourself. Validate with the next button.
+8) What you are intersed in page, a multiple button link popose you to 	select the field you are interesed in. Validate with the next button.
+9) Customize your view page, To change the look of you app you can click on with the Change your view button. That will lead you to a set of apparence. Select one icon button to validate.
+10) Welcome to Twiter! Page. Click on Let's go! Button To see the tweets.
