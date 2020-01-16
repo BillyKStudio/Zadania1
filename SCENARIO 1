@@ -1,6 +1,6 @@
 SCENARIO 1 : Create a new character in World Of Warcraft (PC)
 
-1) After login in the game, click on the “Create New Character” button 	from the character selection screen.
+1) After login in the game, click on the “Create New Character” button from the character selection screen.
 2) Then, click on the character type “New Level 1” button
 3) Choose gender on icon male or female button
 4) Select the character race and faction from a list (ex:  Orc, Undead, Tauran, Troll,human, Dwarf...)
